@@ -15,16 +15,11 @@ const upvote = () => {
   upvoteClicked == null ? upvotes.value++ : false;
   // if downvote button was clicked already, make the upvote button null to be able to increment once more to reset or add to total votes.
   if (downvoteClicked == true) {
-    // set to false to allow upvote after reset of votes
     downvoteClicked = false;
-    // set to null to allow another upvote after reset
     upvoteClicked = null;
   } else {
     // otherwise change state to upvote to true and allow downvote to reset votes
     upvoteClicked = true;
-
-    // set to null to allow another upvote after reset
-
     downvoteClicked = null;
   }
   updateVotes();

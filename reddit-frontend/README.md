@@ -1,29 +1,16 @@
-# reddit-frontend
+# Reddit Post Feed Component
 
-This template should help get you started developing with Vue 3 in Vite.
+This **Vue.js** project replicates a Reddit-style post feed with dynamic data rendering, upvote/downvote functionality, and a post creation page. The project focuses on component-based architecture.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Post Feed Component**: Displays posts with dynamic data (title, author, subreddit).
+- **Upvote/Downvote System**: Interactive icons with real-time vote count.
+- **Create Post Page**: Allows users to add new posts with images and text.
+- **Static Old Reddit Style Layout**
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- **Vue.js**: Component-based architecture for building the UI.
+- **HTML5/CSS3**: For structuring and styling the interface.
+- **JavaScript (ES6+)**: For dynamic behavior and interactivity.
