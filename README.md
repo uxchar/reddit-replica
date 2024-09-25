@@ -1,4 +1,4 @@
-# Reddit Post Feed Component
+# Reddit Post Feed
 
 This **Vue.js** project replicates a Reddit-style post feed with dynamic data rendering, upvote/downvote functionality, and a post creation page. The project focuses on component-based architecture.
 
