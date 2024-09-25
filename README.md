@@ -1,5 +1,7 @@
 # Reddit Post Feed
 
+![Old Reddit Clone Feed Screenshot](./docs/images/reddit-screenshot-1.png)
+
 This **Vue.js** project replicates a Reddit-style post feed with dynamic data rendering, upvote/downvote functionality, and a post creation page. The project focuses on component-based architecture.
 
 ## Features
@@ -8,6 +10,8 @@ This **Vue.js** project replicates a Reddit-style post feed with dynamic data re
 - **Upvote/Downvote System**: Interactive icons with real-time vote count.
 - **Create Post Page**: Allows users to add new posts with images and text.
 - **Static Old Reddit Style Layout**
+
+![Reddit Create Post Screenshot](./docs/images/reddit-screenshot-2.png)
 
 ## Technologies Used
 
