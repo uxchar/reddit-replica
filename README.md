@@ -1,4 +1,4 @@
-# "Old Reddit Post Feed
+# Old Reddit Post Feed
 
 ![Old Reddit Clone Feed Screenshot](./docs/images/reddit-screenshot-1.png)
 
